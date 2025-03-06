@@ -1,8 +1,8 @@
 ---
 openapi: 3.0.2
 info:
-  title: test git change
+  title: test
   version: 1.0.0
-  description: test
+  description: test direct
 paths:
   /test: {}
